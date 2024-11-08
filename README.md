@@ -1,4 +1,4 @@
-## Solva.tech Backend Java task
+## Solva Technology Backend Java task
 
 **Technology stacks used**
 - Java 23.0.1
