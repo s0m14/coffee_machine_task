@@ -1,5 +1,3 @@
-## Solva Technology Backend Java task
-
 **Technology stacks used**
 - Java 23.0.1
 - Spring boot
